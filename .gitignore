@@ -1,0 +1,9 @@
+
+# ignore folders tacking
+.ipynb_checkpoints/
+
+# Ignore files tracking
+test.csv
+sample_submission.csv
+transactions.csv
+train.csv
